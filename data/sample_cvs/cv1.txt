@@ -1,0 +1,9 @@
+Name: Ahmed Ali
+Email: ahmed.ali@gmail.com
+Phone: +967 777 123456
+
+Skills:
+Python, Machine Learning, SQL, NLP
+
+Education:
+Bachelor of Artificial Intelligence

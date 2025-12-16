@@ -1,0 +1,7 @@
+Fatima Ali is a data science student.
+
+You can reach her at fatima.ali@gmail.com
+or by phone 777123999.
+
+She is skilled in Python, NLP and SQL.
+Currently studying Bachelor in Computer Science.

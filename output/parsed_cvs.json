@@ -1,0 +1,92 @@
+[
+    {
+        "file": "cv1.txt",
+        "emails": [
+            "ahmed.ali@gmail.com"
+        ],
+        "phones": [
+            "+967 777 "
+        ],
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "SQL",
+            "NLP"
+        ],
+        "education": [
+            "Bachelor",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "file": "cv2.txt",
+        "emails": [
+            "sara_m@yahoo.com"
+        ],
+        "phones": [
+            "777-"
+        ],
+        "skills": [
+            "Python",
+            "Pandas",
+            "Data Analysis"
+        ],
+        "education": [
+            "Bachelor",
+            "Computer Science"
+        ]
+    },
+    {
+        "file": "cv3.txt",
+        "emails": [
+            "mohammed2023@gmail.com"
+        ],
+        "phones": [
+            "+967777"
+        ],
+        "skills": [
+            "Python",
+            "SQL",
+            "Deep Learning"
+        ],
+        "education": [
+            "Bachelor"
+        ]
+    },
+    {
+        "file": "cv4.txt",
+        "emails": [
+            "khaled.omar@outlook.com"
+        ],
+        "phones": [
+            "(967) "
+        ],
+        "skills": [
+            "Python",
+            "Java",
+            "Databases"
+        ],
+        "education": [
+            "Master",
+            "Information Technology"
+        ]
+    },
+    {
+        "file": "cv5.txt",
+        "emails": [
+            "fatima.ali@gmail.com"
+        ],
+        "phones": [
+            "777"
+        ],
+        "skills": [
+            "Python",
+            "SQL",
+            "NLP"
+        ],
+        "education": [
+            "Bachelor",
+            "Computer Science"
+        ]
+    }
+]
