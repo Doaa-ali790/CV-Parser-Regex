@@ -34,7 +34,6 @@ CV-Parser-Regex-Python/
 └── README.md # Project description
 
 yaml
-نسخ الكود
 
 ---
 
@@ -46,12 +45,12 @@ cd /d E:\CV-Parser-Regex-NLP
 Install the tabulate library if not installed:
 
 bash
-نسخ الكود
+
 pip install tabulate
 Run the main script:
 
 bash
-نسخ الكود
+
 python src\parser.py
 After running:
 
@@ -61,7 +60,6 @@ A JSON file output/parsed_cvs.json will be created with all extracted data
 
 Example JSON Output
 json
-نسخ الكود
 [
     {
         "file": "CV_1.txt",
