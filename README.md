@@ -78,3 +78,5 @@ Regex is strong for extracting fixed patterns (Email, Phone) but may not catch u
 
 The project can be extended later with NLP or machine learning for more advanced text analysis.
 
+git branch -M main
+git remote add origin https://github.com/Doaa-ali790/CV-Parser-Regex.git
